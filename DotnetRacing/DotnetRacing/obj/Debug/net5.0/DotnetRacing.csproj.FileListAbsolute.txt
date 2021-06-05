@@ -1,0 +1,15 @@
+/Users/quo.barlow/Documents/dotnet-racing/DotnetRacing/DotnetRacing/bin/Debug/net5.0/DotnetRacing.deps.json
+/Users/quo.barlow/Documents/dotnet-racing/DotnetRacing/DotnetRacing/bin/Debug/net5.0/DotnetRacing.runtimeconfig.json
+/Users/quo.barlow/Documents/dotnet-racing/DotnetRacing/DotnetRacing/bin/Debug/net5.0/DotnetRacing.runtimeconfig.dev.json
+/Users/quo.barlow/Documents/dotnet-racing/DotnetRacing/DotnetRacing/bin/Debug/net5.0/DotnetRacing.dll
+/Users/quo.barlow/Documents/dotnet-racing/DotnetRacing/DotnetRacing/bin/Debug/net5.0/ref/DotnetRacing.dll
+/Users/quo.barlow/Documents/dotnet-racing/DotnetRacing/DotnetRacing/bin/Debug/net5.0/DotnetRacing.pdb
+/Users/quo.barlow/Documents/dotnet-racing/DotnetRacing/DotnetRacing/obj/Debug/net5.0/DotnetRacing.csproj.AssemblyReference.cache
+/Users/quo.barlow/Documents/dotnet-racing/DotnetRacing/DotnetRacing/obj/Debug/net5.0/DotnetRacing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quo.barlow/Documents/dotnet-racing/DotnetRacing/DotnetRacing/obj/Debug/net5.0/DotnetRacing.AssemblyInfoInputs.cache
+/Users/quo.barlow/Documents/dotnet-racing/DotnetRacing/DotnetRacing/obj/Debug/net5.0/DotnetRacing.AssemblyInfo.cs
+/Users/quo.barlow/Documents/dotnet-racing/DotnetRacing/DotnetRacing/obj/Debug/net5.0/DotnetRacing.csproj.CoreCompileInputs.cache
+/Users/quo.barlow/Documents/dotnet-racing/DotnetRacing/DotnetRacing/obj/Debug/net5.0/DotnetRacing.dll
+/Users/quo.barlow/Documents/dotnet-racing/DotnetRacing/DotnetRacing/obj/Debug/net5.0/ref/DotnetRacing.dll
+/Users/quo.barlow/Documents/dotnet-racing/DotnetRacing/DotnetRacing/obj/Debug/net5.0/DotnetRacing.pdb
+/Users/quo.barlow/Documents/dotnet-racing/DotnetRacing/DotnetRacing/obj/Debug/net5.0/DotnetRacing.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1b880419_002D26d1_002D492b_002D9978_002D69c2a0500917/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::12435CE6-68D9-45E9-95D5-4027E25ED36A::net5.0::DotnetRacingTest.UnitTest1.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::12435CE6-68D9-45E9-95D5-4027E25ED36A::net5.0::DotnetRacingTest.CarTest.Test_car_position_getset&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::12435CE6-68D9-45E9-95D5-4027E25ED36A::net5.0::DotnetRacingTest.CarTest.TestOfCar&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::12435CE6-68D9-45E9-95D5-4027E25ED36A::net5.0::DotnetRacingTest.CarTest.TestOfEnginePoweredCars&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::12435CE6-68D9-45E9-95D5-4027E25ED36A::net5.0::DotnetRacingTest.CarTest.TestOfPlayerName&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::12435CE6-68D9-45E9-95D5-4027E25ED36A::net5.0::DotnetRacingTest.CarTest.TestOfCarPositionRepresentation&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::12435CE6-68D9-45E9-95D5-4027E25ED36A::net5.0::DotnetRacingTest.CarTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::12435CE6-68D9-45E9-95D5-4027E25ED36A::net5.0::DotnetRacingTest.EngineTest.testOfFact&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::12435CE6-68D9-45E9-95D5-4027E25ED36A::net5.0::DotnetRacingTest.EngineTest.TestOfAlwaysForwardEngine&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::12435CE6-68D9-45E9-95D5-4027E25ED36A::net5.0::DotnetRacingTest.EngineTest.TestOfRandomFueledEngine&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::12435CE6-68D9-45E9-95D5-4027E25ED36A::net5.0::DotnetRacingTest.EngineTest.TestOfFact&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::12435CE6-68D9-45E9-95D5-4027E25ED36A::net5.0::DotnetRacingTest.EngineTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
